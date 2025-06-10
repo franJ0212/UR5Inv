@@ -26,4 +26,4 @@ El objetivo es modelar la **cinemática inversa del robot UR5** mediante técnic
 
 ## Licencia
 
-Este proyecto es de uso académico y no cuenta con licencia comercial.
+Este proyecto es de uso académico.
